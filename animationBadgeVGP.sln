@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "animationBadgeVGP", "animationBadgeVGP\animationBadgeVGP.csproj", "{1356DF29-2759-404F-A57F-87247DC77272}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testsAnimationBadgeVGP", "testsAnimationBadgeVGP\testsAnimationBadgeVGP.csproj", "{12C26D76-597D-46D7-9027-278092B41647}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1356DF29-2759-404F-A57F-87247DC77272}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1356DF29-2759-404F-A57F-87247DC77272}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1356DF29-2759-404F-A57F-87247DC77272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C26D76-597D-46D7-9027-278092B41647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C26D76-597D-46D7-9027-278092B41647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C26D76-597D-46D7-9027-278092B41647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C26D76-597D-46D7-9027-278092B41647}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
