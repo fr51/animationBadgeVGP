@@ -127,13 +127,13 @@ bibliothèque "colorPicker.dll"
 
 ### 1. nouvelle animation
 
-Dans le menu "Animation", cliquez sur le bouton "Nouvelle". Chaque diode sera blanche
+Dans le menu "Animation", cliquez sur le bouton "Nouvelle". Chaque diode sera incolore (sa couleur sera définie à `null`)
 
 ### 2. coloration d'une diode
 
 1. Cliquez sur la diode à colorer
 2. Le sélecteur de couleur va se mettre à jour pour afficher la couleur actuelle de la diode
-3. Si besoin, utilisez le sélecteur de couleur pour définir une nouvelle couleur
+3. Si besoin, définissez une nouvelle couleur via le sélecteur de couleur 
 
 ### 3. définition du délai
 
@@ -146,8 +146,9 @@ Dans la liste des étapes déjà créées, sélectionnez celle que vous souhaitez visu
 
 ### 5. fonctionnalités
 
-1. actuelles
-2. à venir
+1. implémentées
+2. en cours de développement
+3. à venir
 	1. création d'une animation
 	2. sauvegarde de l'animation dans un fichier
 	3. modification de l'ordre des étapes
